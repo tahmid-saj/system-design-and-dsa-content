@@ -1,3 +1,25 @@
+# System Design
+
+## Key technologies
+
+| Technology | Repository                                     |
+|--------|---------------------------------------------|
+| DynamoDB     | [DynamoDB](https://github.com/tahmid-saj/aws-docs/tree/main/dynamodb)                   |
+| Cassandra     | [Cassandra](https://github.com/tahmid-saj/cassandra-docs)                   |
+| Parallel programming     | [Parallel programming](https://github.com/tahmid-saj/parallel-programming-docs)                   |
+| Networking     | [Networking](https://github.com/tahmid-saj/networking-docs)                   |
+| Kafka     | [Kafka](https://github.com/tahmid-saj/kafka-docs)                   |
+| Redis     | [Redis](https://github.com/tahmid-saj/redis-docs)                   |
+| ZooKeeper     | [ZooKeeper](https://github.com/tahmid-saj/zookeeper-docs)                   |
+| Express     | [Express](https://github.com/tahmid-saj/express-docs)                 |
+| GraphQL     | [GraphQL](https://github.com/tahmid-saj/graphql-docs)                   |
+| Elasticsearch     | [Elasticsearch](https://github.com/tahmid-saj/elasticsearch-docs)                   |
+| Docker and kubernetes     | [Docker and kubernetes](https://github.com/tahmid-saj/docker-kubernetes-docs)                   |
+| Go     | [Go](https://github.com/tahmid-saj/go-docs)                   |
+| Java     | [Java](https://github.com/tahmid-saj/java-docs)                   |
+| Python     | [Python](https://github.com/tahmid-saj/py-docs)                   |
+| TypeScript     | [TypeScript](https://github.com/tahmid-saj/ts-docs)                   |
+
 # Data Structures and Algorithms
 
 ## Questions by patterns
