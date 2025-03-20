@@ -10,6 +10,7 @@
 | Networking     | [Networking](https://github.com/tahmid-saj/networking-docs)                   |
 | Kafka     | [Kafka](https://github.com/tahmid-saj/kafka-docs)                   |
 | Redis     | [Redis](https://github.com/tahmid-saj/redis-docs)                   |
+| PostgreSQL     | [PostgreSQL](https://github.com/tahmid-saj/postgresql-docs)                   |
 | ZooKeeper     | [ZooKeeper](https://github.com/tahmid-saj/zookeeper-docs)                   |
 | Express     | [Express](https://github.com/tahmid-saj/express-docs)                 |
 | GraphQL     | [GraphQL](https://github.com/tahmid-saj/graphql-docs)                   |
