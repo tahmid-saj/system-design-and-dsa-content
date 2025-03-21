@@ -16,6 +16,7 @@
 | GraphQL     | [GraphQL](https://github.com/tahmid-saj/graphql-docs)                   |
 | Elasticsearch     | [Elasticsearch](https://github.com/tahmid-saj/elasticsearch-docs)                   |
 | Docker and kubernetes     | [Docker and kubernetes](https://github.com/tahmid-saj/docker-kubernetes-docs)                   |
+| Databases (General)    | [Databases](https://github.com/tahmid-saj/db-docs)                   |
 | Go     | [Go](https://github.com/tahmid-saj/go-docs)                   |
 | Java     | [Java](https://github.com/tahmid-saj/java-docs)                   |
 | Python     | [Python](https://github.com/tahmid-saj/py-docs)                   |
