@@ -4,23 +4,35 @@
 
 | Technology | Repository                                     |
 |--------|---------------------------------------------|
-| DynamoDB     | [DynamoDB](https://github.com/tahmid-saj/aws-docs/tree/main/dynamodb)                   |
-| Cassandra     | [Cassandra](https://github.com/tahmid-saj/cassandra-docs)                   |
-| Parallel programming     | [Parallel programming](https://github.com/tahmid-saj/parallel-programming-docs)                   |
-| Networking     | [Networking](https://github.com/tahmid-saj/networking-docs)                   |
-| Kafka     | [Kafka](https://github.com/tahmid-saj/kafka-docs)                   |
-| Redis     | [Redis](https://github.com/tahmid-saj/redis-docs)                   |
-| PostgreSQL     | [PostgreSQL](https://github.com/tahmid-saj/postgresql-docs)                   |
-| ZooKeeper     | [ZooKeeper](https://github.com/tahmid-saj/zookeeper-docs)                   |
-| Express     | [Express](https://github.com/tahmid-saj/express-docs)                 |
-| GraphQL     | [GraphQL](https://github.com/tahmid-saj/graphql-docs)                   |
-| Elasticsearch     | [Elasticsearch](https://github.com/tahmid-saj/elasticsearch-docs)                   |
-| Docker and kubernetes     | [Docker and kubernetes](https://github.com/tahmid-saj/docker-kubernetes-docs)                   |
-| Databases (General)    | [Databases](https://github.com/tahmid-saj/db-docs)                   |
-| Go     | [Go](https://github.com/tahmid-saj/go-docs)                   |
-| Java     | [Java](https://github.com/tahmid-saj/java-docs)                   |
-| Python     | [Python](https://github.com/tahmid-saj/py-docs)                   |
-| TypeScript     | [TypeScript](https://github.com/tahmid-saj/ts-docs)                   |
+| DynamoDB     | [DynamoDB](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/dynamodb)                  |
+| EC2     | [EC2](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/ec2)                   |
+| ECS / ECR / Fargate     | [ECS / ECR / Fargate](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/ecs_ecr_fargate)                   |
+| ELB / ASG     | [ELB / ASG](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/elb_asg)                   |
+| Lambda     | [Lambda](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/lambda)                   |
+| RDS / Aurora / Elasticache     | [RDS / Aurora / Elasticache](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/rds_aurora_elasticache)                   |
+| S3     | [S3](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/s3)                   |
+| SQS / SNS / Kinesis     | [SQS / SNS / Kinesis](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/aws/sqs_sns_kinesis)                   |
+| C# / .NET     | [C# / .NET](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/c_sharp_dot_net)   
+| Cassandra     | [Cassandra](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/cassandra)                   |
+| DB Docs     | [DB Docs](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/db-docs)
+| Docker / Kubernetes     | [Docker / Kubernetes](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/docker-kubernetes)
+| Elasticsearch     | [Elasticsearch](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/elasticsearch)                   |
+| Express     | [Express](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/express)                   |
+| Go     | [Go](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/go)                   |
+| GraphQL     | [GraphQL](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/graphql)                   |
+| Java     | [Java](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/java)                   |
+| Kafka     | [Kafka](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/kafka)                   |
+| Networking     | [Networking](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/networking)                   |
+| Next     | [Next](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/next)                   |
+| Parallel programming     | [Parallel programming](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/parallel-programming)                   |
+| PostgreSQL     | [PostgreSQL](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/postgresql)                   |
+| Python     | [Python](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/python)                   |
+| Redis     | [Redis](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/redis)                   |
+| Spark     | [Spark](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/spark)                   |
+| SpringBoot     | [SpringBoot](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/springboot)                   |
+| Testing     | [Testing](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/testing)                   |
+| TypeScript     | [TypeScript](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/typescript)                   |
+| ZooKeeper     | [ZooKeeper](https://github.com/tahmid-saj/system-design-technologies-docs/tree/main/zookeeper)                   |
 
 # Data Structures and Algorithms
 
